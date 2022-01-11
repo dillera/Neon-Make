@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Neon", "Neon\Neon.csproj", "{7413CC4C-047D-4015-B712-B42F575632EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADF", "ADF\ADF.csproj", "{99B384B6-687E-4F95-8718-7189055B1083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7413CC4C-047D-4015-B712-B42F575632EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7413CC4C-047D-4015-B712-B42F575632EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7413CC4C-047D-4015-B712-B42F575632EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7413CC4C-047D-4015-B712-B42F575632EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B384B6-687E-4F95-8718-7189055B1083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B384B6-687E-4F95-8718-7189055B1083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B384B6-687E-4F95-8718-7189055B1083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B384B6-687E-4F95-8718-7189055B1083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F54521AC-0239-4C8B-9069-F6522126868D}
+	EndGlobalSection
+EndGlobal
